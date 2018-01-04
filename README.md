@@ -1,2 +1,2 @@
 # magentoessentials.com
-Main website
+Main Application Repository
